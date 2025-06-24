@@ -1,6 +1,6 @@
 📊 Datascience-Analytics-Projects
 
-Welcome to the Datascience-Analytics-Projects repository — a comprehensive portfolio demonstrating my capabilities across the data value chain, including business analysis, data analytics, and machine learning. Each project here reflects practical, real-world problem-solving with a strong emphasis on analytical thinking, data storytelling, and technical execution.
+Welcome to the Datascience-Analytics-Projects repository — a comprehensive portfolio demonstrating my capabilities across the data value chain, including business analysis, data analytics. Each project here reflects practical, real-world problem-solving with a strong emphasis on analytical thinking, data storytelling, and technical execution.
 
 🗂 Repository Overview
 This repository is organized into the following core directories:
@@ -18,18 +18,6 @@ SQL and Python-based data wrangling
 
 🔧 Tools Used: Python (Pandas, Matplotlib, Seaborn), SQL, Excel, Power BI/Tableau
 
-📁 ML_projects/
-Houses machine learning projects including:
-
-End-to-end ML pipelines
-
-Feature engineering and model evaluation
-
-Supervised and unsupervised learning approaches
-
-Use of Scikit-learn, XGBoost, and model interpretability techniques
-
-🧠 Focus: Predictive modeling, classification, regression, clustering
 
 📁 Task_BusinessAnalyst/
 A collection of business analyst tasks such as:
